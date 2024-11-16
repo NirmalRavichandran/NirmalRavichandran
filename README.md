@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I'm Nirmal Ravichandran!
 
-<!--
-**NirmalRavichandran/NirmalRavichandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **CSE Student** | 🚀 Passionate about **Development**, **AI**, & **Cybersecurity**  
+⚡ Working on exciting projects in **Flutter**, **React**, & **Python**  
+🎯 Exploring **Cyber Security** and solving **CTFs**  
 
-Here are some ideas to get you started:
+📚 **Hobbies:** Watching movies 🎥 | Reading books 📖 | Listening to podcasts 🎙️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- **Languages:** Python, JavaScript, Dart  
+- **Frameworks:** Flutter, React, FastAPI  
+- **Cloud Services:** Firebase  
+
