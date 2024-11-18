@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nirmal Ravichandran! vanakam da mapla
+# 👋 Hello, I'm Nirmal Ravichandran!
 
 💻 **CSE Student** | 🚀 Passionate about **Development**, **AI**, & **Cybersecurity**  
 ⚡ Working on exciting projects in **Flutter**, **React**, & **Python**  
